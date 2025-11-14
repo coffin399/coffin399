@@ -17,12 +17,12 @@
   <tr>
     <td>
       <a href="https://github.com/coffin399/ProjectMOMOKA">
-        <img width="330" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=coffin399&repo=ProjectMOMOKA&theme=radical&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=00D9FF&border_color=00D9FF&border_radius=15" alt="ProjectMOMOKA"/>
+        <img width="330" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=coffin399&repo=ProjectMOMOKA&theme=radical&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=00D9FF&border_radius=15&hide_border=true" alt="ProjectMOMOKA"/>
       </a>
     </td>
     <td>
       <a href="https://github.com/coffin399/coffin299-Hyper-AI-Agent">
-        <img width="330" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=coffin399&repo=coffin299-Hyper-AI-Agent&theme=radical&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=00D9FF&border_color=00D9FF&border_radius=15" alt="coffin299-Hyper-AI-Agent"/>
+        <img width="330" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=coffin399&repo=coffin299-Hyper-AI-Agent&theme=radical&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=00D9FF&border_radius=15&hide_border=true" alt="coffin299-Hyper-AI-Agent"/>
       </a>
     </td>
   </tr>
