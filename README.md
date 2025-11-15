@@ -15,16 +15,16 @@
 
 <p align="center" style="display: flex; gap: 18px; justify-content: center; flex-wrap: wrap;">
   <a href="https://github.com/coffin399/ProjectMOMOKA" style="display: inline-block;">
-    <img width="330" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=coffin399&repo=ProjectMOMOKA&theme=radical&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=00D9FF&border_color=00D9FF&border_radius=15&hide_border=false" alt="ProjectMOMOKA"/>
+    <img width="330" style="height: 150px; object-fit: cover;" src="https://github-readme-stats.vercel.app/api/pin/?username=coffin399&repo=ProjectMOMOKA&theme=radical&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=00D9FF&border_color=00D9FF&border_radius=15&hide_border=false" alt="ProjectMOMOKA"/>
   </a>
   <a href="https://github.com/coffin399/llmcord-JP-plana" style="display: inline-block;">
-    <img width="330" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=coffin399&repo=llmcord-JP-plana&theme=radical&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=00D9FF&border_color=00D9FF&border_radius=15&hide_border=false" alt="llmcord-JP-plana"/>
+    <img width="330" style="height: 150px; object-fit: cover;" src="https://github-readme-stats.vercel.app/api/pin/?username=coffin399&repo=llmcord-JP-plana&theme=radical&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=00D9FF&border_color=00D9FF&border_radius=15&hide_border=false" alt="llmcord-JP-plana"/>
   </a>
   <a href="https://github.com/coffin399/coffin299-Hyper-AI-Agent" style="display: inline-block;">
-    <img width="330" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=coffin399&repo=coffin299-Hyper-AI-Agent&theme=radical&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=00D9FF&border_color=00D9FF&border_radius=15&hide_border=false" alt="coffin299-Hyper-AI-Agent"/>
+    <img width="330" style="height: 150px; object-fit: cover;" src="https://github-readme-stats.vercel.app/api/pin/?username=coffin399&repo=coffin299-Hyper-AI-Agent&theme=radical&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=00D9FF&border_color=00D9FF&border_radius=15&hide_border=false" alt="coffin299-Hyper-AI-Agent"/>
   </a>
   <a href="https://github.com/coffin399/music-bot-arona" style="display: inline-block;">
-    <img width="330" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=coffin399&repo=music-bot-arona&theme=radical&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=00D9FF&border_color=00D9FF&border_radius=15&hide_border=false" alt="music-bot-arona"/>
+    <img width="330" style="height: 150px; object-fit: cover;" src="https://github-readme-stats.vercel.app/api/pin/?username=coffin399&repo=music-bot-arona&theme=radical&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=00D9FF&border_color=00D9FF&border_radius=15&hide_border=false" alt="music-bot-arona"/>
   </a>
 </p>
 
