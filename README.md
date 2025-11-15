@@ -1,8 +1,8 @@
 # ✨<span style="color: #00D9FF;">coffin299</span> ✨
 
-<span style="color: #00D9FF;">**TypeScript | JavaScript | Java | C# | Python**</span>
+<span style="color: #00D9FF;">**Python | TypeScript | JavaScript | Java | C#**</span>
 
-<span style="color: #00D9FF;">*Building awesome projects with passion!*</span>
+<span style="color: #00D9FF;">*Can't code without AI assistance (Currently unemployed)*</span>
 
 ---
 
@@ -11,14 +11,20 @@
 ### 📍 <span style="color: #00D9FF;">Location</span>
 🇯🇵 <span style="color: #00D9FF;">**Japan, Tokyo, Bunkyo-ku**</span> (UTC +09:00)
 
-### 🌟 <span style="color: #00D9FF;">Main Project</span>
+### 🌟 <span style="color: #00D9FF;">Main Projects</span>
 
 <p align="center" style="display: flex; gap: 18px; justify-content: center; flex-wrap: wrap;">
   <a href="https://github.com/coffin399/ProjectMOMOKA" style="display: inline-block;">
     <img width="330" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=coffin399&repo=ProjectMOMOKA&theme=radical&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=00D9FF&border_color=00D9FF&border_radius=15&hide_border=false" alt="ProjectMOMOKA"/>
   </a>
+  <a href="https://github.com/coffin399/llmcord-JP-plana" style="display: inline-block;">
+    <img width="330" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=coffin399&repo=llmcord-JP-plana&theme=radical&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=00D9FF&border_color=00D9FF&border_radius=15&hide_border=false" alt="llmcord-JP-plana"/>
+  </a>
   <a href="https://github.com/coffin399/coffin299-Hyper-AI-Agent" style="display: inline-block;">
     <img width="330" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=coffin399&repo=coffin299-Hyper-AI-Agent&theme=radical&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=00D9FF&border_color=00D9FF&border_radius=15&hide_border=false" alt="coffin299-Hyper-AI-Agent"/>
+  </a>
+  <a href="https://github.com/coffin399/music-bot-arona" style="display: inline-block;">
+    <img width="330" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=coffin399&repo=music-bot-arona&theme=radical&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=00D9FF&border_color=00D9FF&border_radius=15&hide_border=false" alt="music-bot-arona"/>
   </a>
 </p>
 
@@ -27,7 +33,7 @@
 
 ---
 
-<span style="color: #00D9FF;">I'm a developer passionate about creating innovative Discord bots and web applications. I work with TypeScript, JavaScript, Java, C#, and Python to build exciting projects. Currently maintaining ProjectMOMOKA, a feature-rich Discord bot with AI capabilities!</span>
+<span style="color: #00D9FF;">A developer focused on Discord Bot development and AI Agent development, working in collaboration with AI. I build projects primarily using Python, TypeScript, and JavaScript. Currently developing and maintaining ProjectMOMOKA (a feature-rich Discord bot with AI image generation, intelligent chat, and natural voice capabilities), llmcord-JP-plana (a Discord bot integrating LLM frontend, music bot, video downloader, and earthquake early warning notifications for Japan), and coffin299-Hyper-AI-Agent (an open-source AI agent application supporting Gemini, ChatGPT, OpenRouter, and NVIDIA NIM).</span>
 
 ---
 
@@ -71,15 +77,18 @@
 ## 🛠️ <span style="color: #00D9FF;">Technologies & Tools</span>
 
 ### <span style="color: #00D9FF;">Languages</span>
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ### <span style="color: #00D9FF;">Frameworks & Libraries</span>
+![Discord.py](https://img.shields.io/badge/-Discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### <span style="color: #00D9FF;">Tools & Platforms</span>
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -130,4 +139,4 @@
 
 
 
-<!-- Last updated: 2025-11-14 01:09:53 UTC -->
+<!-- Last updated: 2025-11-15 05:27:00 UTC -->
